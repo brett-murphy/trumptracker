@@ -32,10 +32,8 @@ statuses:
 
 promises:
 
-
-
--
-        title: 'No more chages to Air Force 1'
+    -
+        title: 'No more changes to Air Force 1'
         status: Broken
         category: Culture
         tags:
